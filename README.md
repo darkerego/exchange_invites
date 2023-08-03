@@ -8,3 +8,4 @@ A list of referal codes and invites to crypto exchanges. We both get free shit, 
 - [aax](https://www.aax.com/invite/sign-up?inviteCode=XDqLrRCGx1gr4)
 - [bittrex](https://bittrex.com/discover/join?referralCode=O3W-NWS-UZU)
 - [gmx](https://app.gmx.io/#/trade/?ref=darkerego)
+- [mdex](https://ht.mdex.co/#/referral?id=4kazFsTH)
