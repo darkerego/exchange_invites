@@ -9,3 +9,4 @@ A list of referal codes and invites to crypto exchanges. We both get free shit, 
 - [bittrex](https://bittrex.com/discover/join?referralCode=O3W-NWS-UZU)
 - [gmx](https://app.gmx.io/#/trade/?ref=darkerego)
 - [mdex](https://ht.mdex.co/#/referral?id=4kazFsTH)
+- [okx](https://www.okx.com/join/29976238)
