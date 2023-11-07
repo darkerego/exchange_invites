@@ -11,3 +11,4 @@ A list of referal codes and invites to crypto exchanges. We both get free shit, 
 - [mdex](https://ht.mdex.co/#/referral?id=4kazFsTH)
 - [okx](https://www.okx.com/join/29976238)
 - [changenow.io](https://changenow.app.link/referral?link_id=5c5efadb3aa700)
+- [quicknode](https://www.quicknode.com/?via=darkerego)
