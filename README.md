@@ -13,3 +13,4 @@ A list of referal codes and invites to crypto exchanges. We both get free shit, 
 - [changenow.io](https://changenow.app.link/referral?link_id=5c5efadb3aa700)
 - [quicknode](https://www.quicknode.com/?via=darkerego)
 - [rainbow.me](https://rainbow.me/points?ref=NYPVQ2)
+- [fixedfloat](https://fixedfloat.com/?ref=79uuzm7a)
