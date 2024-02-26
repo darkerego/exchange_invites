@@ -14,3 +14,4 @@ A list of referal codes and invites to crypto exchanges. We both get free shit, 
 - [quicknode](https://www.quicknode.com/?via=darkerego)
 - [rainbow.me](https://rainbow.me/points?ref=NYPVQ2)
 - [fixedfloat](https://fixedfloat.com/?ref=79uuzm7a)
+- [ethina](app.ethena.fi/join/yma7f)
