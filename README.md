@@ -16,3 +16,4 @@ A list of referal codes and invites to crypto exchanges. We both get free shit, 
 - [fixedfloat](https://fixedfloat.com/?ref=79uuzm7a)
 - [ethina](app.ethena.fi/join/yma7f)
 - [aevo](https://app.aevo.xyz/r/Gifted-Cotton-Zhou)
+- [ledger](https://shop.ledger.com/pages/referral-program?referral_code=DZHTFVQWDZN6Z)
