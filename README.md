@@ -1,5 +1,5 @@
-# exchange_invites
-A list of referal codes and invites to crypto exchanges. We both get free shit, it's a win/win situation. 
+# exchange_invites / potential aidrop protocols
+A list of referal codes and invites to crypto exchanges & protocols that aidrop. We both get free shit, it's a win/win situation. 
 
 - [dydx](https://dydx.exchange/r/QCQPMLOL)
 - [shapeshift](https://auth.shapeshift.com/signup?af=8RKXY9NJbuU5QauN)
@@ -17,3 +17,4 @@ A list of referal codes and invites to crypto exchanges. We both get free shit, 
 - [ethina](app.ethena.fi/join/yma7f)
 - [aevo](https://app.aevo.xyz/r/Gifted-Cotton-Zhou)
 - [ledger](https://shop.ledger.com/pages/referral-program?referral_code=DZHTFVQWDZN6Z)
+- [rage.trade](https://www.app.rage.trade/?ref=darkerego)
