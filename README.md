@@ -18,3 +18,4 @@ A list of referal codes and invites to crypto exchanges & protocols that aidrop.
 - [aevo](https://app.aevo.xyz/r/Gifted-Cotton-Zhou)
 - [ledger](https://shop.ledger.com/pages/referral-program?referral_code=DZHTFVQWDZN6Z)
 - [rage.trade](https://www.app.rage.trade/?ref=darkerego)
+- [waggie](https://t.me/wagiebot?start=darkerego)
