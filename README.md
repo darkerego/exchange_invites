@@ -19,4 +19,4 @@ A list of referal codes and invites to crypto exchanges & protocols that aidrop.
 - [ledger](https://shop.ledger.com/pages/referral-program?referral_code=DZHTFVQWDZN6Z)
 - [rage.trade](https://www.app.rage.trade/?ref=darkerego)
 - [waggie](https://t.me/wagiebot?start=darkerego)
-- [swell] (https://app.swellnetwork.io/restake?ref=0xa0e266f9bf8d532f9e0694d8d09374e47c11ce54)
+- [swell](https://app.swellnetwork.io/restake?ref=0xa0e266f9bf8d532f9e0694d8d09374e47c11ce54)
