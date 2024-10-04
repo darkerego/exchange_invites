@@ -7,7 +7,7 @@ A list of referal codes and invites to crypto exchanges & protocols that aidrop.
 - [binance.us](https://accounts.binance.us/en/register?ref=53953659)
 - [aax](https://www.aax.com/invite/sign-up?inviteCode=XDqLrRCGx1gr4)
 - [bittrex](https://bittrex.com/discover/join?referralCode=O3W-NWS-UZU)
-- [gmx](https://app.gmx.io/#/trade/?ref=darkerego)
+- [gmx](https://app.gmx.io/#/trade/?ref=DARKEREGO) # Note: some faggot registered 'darkerego' on avalance, so DO NOT use that code, use all uppercase DARKEREGO
 - [mdex](https://ht.mdex.co/#/referral?id=4kazFsTH)
 - [okx](https://www.okx.com/join/29976238)
 - [changenow.io](https://changenow.app.link/referral?link_id=5c5efadb3aa700)
