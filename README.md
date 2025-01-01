@@ -1,6 +1,7 @@
 # exchange_invites / potential aidrop protocols
 A list of referal codes and invites to crypto exchanges & protocols that aidrop. We both get free shit, it's a win/win situation. 
 
+- [zerion](https://link.zerion.io/referral?code=8EPG68WG0)
 - [dydx](https://dydx.exchange/r/QCQPMLOL)
 - [shapeshift](https://auth.shapeshift.com/signup?af=8RKXY9NJbuU5QauN)
 - [ftx](https://ftx.com/referrals#a=12152931)
