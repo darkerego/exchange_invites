@@ -1,5 +1,6 @@
 # exchange_invites / potential aidrop protocols
 A list of referal codes and invites to crypto exchanges & protocols that aidrop. We both get free shit, it's a win/win situation. 
+- [desk.exchange](https://desk.exchange/referral?ref=73JVJRH&register-channel=referral-link)
 - [mexc](https://promote.mexc.com/r/BV8zOLmJ)
 - [zerion](https://link.zerion.io/referral?code=8EPG68WG0)
 - [dydx](https://dydx.exchange/r/QCQPMLOL)
