@@ -24,3 +24,4 @@ A list of referal codes and invites to crypto exchanges & protocols that aidrop.
 - [waggie](https://t.me/wagiebot?start=darkerego)
 - [swell](https://app.swellnetwork.io/restake?ref=0xa0e266f9bf8d532f9e0694d8d09374e47c11ce54)
 - [polynomial](https://polynomial.fi/en/mainnet/referrals/darkrego)
+- [matcha](https://matcha.xyz?rewardsRef=0x6bd6Aa5c11Ef55becC809B80a1283BE80f73B49F)
